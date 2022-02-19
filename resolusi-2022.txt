@@ -4,3 +4,5 @@ RESOLUSI 2022
   - Perlancar Laravel 8
   - Membuat Portfolio
   - Menghidupkan sosial media
+  - Membuat Website Gedung Olahraga
+  - Memulai mencari client di situs freelancer
