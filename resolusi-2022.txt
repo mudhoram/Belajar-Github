@@ -1,0 +1,6 @@
+RESOLUSI 2022
+
+  - Selesaikan pembelajaran Github
+  - Perlancar Laravel 8
+  - Membuat Portfolio
+  - Menghidupkan sosial media
